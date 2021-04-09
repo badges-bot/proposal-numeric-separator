@@ -1,5 +1,7 @@
 # Numeric Separators
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 ## Stage 4
 
 This is a [proposal](https://tc39.github.io/process-document/), the result of a merge between an earlier draft of itself and Christophe Porteneuve's [proposal-numeric-underscores](https://github.com/tdd/proposal-numeric-underscores), to extend the existing [_NumericLiteral_](https://tc39.github.io/ecma262/#prod-NumericLiteral) to allow a separator character between digits.
